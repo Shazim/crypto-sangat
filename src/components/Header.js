@@ -8,7 +8,7 @@ class Header extends Component {
       <header id="topnav" className="defaultscroll sticky">
         <div className="container">
           <div>
-            <a className="logo" href="#">
+            <a className="logo" href="/">
               <img src={Logo} height="50" alt="" />
             </a>
           </div>
@@ -48,7 +48,7 @@ class Header extends Component {
               </ul>
             </li> */}
               <li>
-                <a href="tutorials.html">Tutorials</a>
+                <a href="/tutorials">Tutorials</a>
               </li>
               <li>
                 <a href="#">Contant Us</a>

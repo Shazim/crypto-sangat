@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
 import Home from "./Home";
+import Tutorials from "./Tutorials";
 class Main extends Component {
   componentDidMount() {
     const script = document.createElement("script");
@@ -18,6 +19,13 @@ class Main extends Component {
             path="/"
             render={(props) => {
               return <Home {...props} />;
+            }}
+          />
+          <Route
+            exact
+            path="/tutorials"
+            render={(props) => {
+              return <Tutorials {...props} />;
             }}
           />
         </Switch>
