@@ -14,8 +14,9 @@ class Footer extends Component {
                   <img src={LogoLight} height="50" alt="" />
                 </a>
                 <p className="mt-4">
-                  Start working with Landrick that can provide everything you
-                  need to generate awareness, drive traffic, connect.
+                  We are proud to say that we have come to this point in our
+                  crypto journey and willing to share our unlimited knowledge
+                  with newbies.
                 </p>
               </div>
 
@@ -27,23 +28,32 @@ class Footer extends Component {
                 <h4 className="text-light footer-head">Social Media</h4>
                 <ul className="list-unstyled social-icon social mb-0 mt-4">
                   <li className="list-inline-item">
-                    <a href="javascript:void(0)" className="rounded">
+                    <a
+                      href="https://www.facebook.com/Crypto-Sangat-113012840487229/"
+                      className="rounded"
+                    >
                       <i className="mdi mdi-facebook"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="javascript:void(0)" className="rounded">
-                      <i className="mdi mdi-instagram"></i>
+                    <a
+                      href="https://www.facebook.com/groups/944049246097867/?ref=share"
+                      className="rounded"
+                    >
+                      <i className="mdi mdi-facebook"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="javascript:void(0)" className="rounded">
-                      <i className="mdi mdi-twitter"></i>
-                    </a>
-                  </li>
-                  <li className="list-inline-item">
-                    <a href="javascript:void(0)" className="rounded">
+                    <a
+                      href="https://www.youtube.com/channel/UCt1Q4bJR-vjRBZ46ISBKb1w"
+                      className="rounded"
+                    >
                       <i className="mdi mdi-youtube"></i>
+                    </a>
+                  </li>
+                  <li className="list-inline-item">
+                    <a href="https://t.me/chillpk" className="rounded">
+                      <i className="mdi mdi-telegram"></i>
                     </a>
                   </li>
                 </ul>

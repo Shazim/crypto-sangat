@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Slider1 from "./images/crypto/slider1.jpg";
 import Slider2 from "./images/crypto/slider2.jpg";
-import Person from "./images/crypto/person.png";
+import Person from "./images/crypto/rubaiz.png";
 import Pen from "./images/icon/pen.svg";
 import Video from "./images/icon/video.svg";
 import Intellectual from "./images/icon/intellectual.svg";
@@ -152,7 +152,7 @@ class Home extends Component {
         <section className="section">
           <div className="container">
             <div className="row align-items-center">
-              <div className="col-lg-5 col-md-6 col-12">
+              <div className="col-lg-4 col-md-6 col-12">
                 <img src={Person} className="img-fluid rounded" alt="" />
               </div>
 
@@ -160,19 +160,20 @@ class Home extends Component {
                 <div className="section-title ml-lg-4">
                   <h4 className="title mb-4">About Us</h4>
                   <p className="text-muted">
-                    Start working with
-                    <span className="text-primary font-weight-bold">
-                      Crypto Sangat
-                    </span>
-                    that can provide everything you need to generate awareness,
-                    drive traffic, connect. Dummy text is text that is used in
-                    the publishing industry or by web designers to occupy the
-                    space which will later be filled with 'real' content. This
-                    is required when, for example, the final text is not yet
-                    available. Dummy texts have been in use by typesetters since
-                    the 16th century.
+                    We are proud to say that we have come to this point in our
+                    crypto journey and willing to share our unlimited knowledge
+                    with newbies. Our sole purpose is to educate people about
+                    crypto and its amazing future. We believe in bloackchain
+                    innovation and technology. We feel not every newbie should
+                    invest all his/her time wondering what is happening in
+                    crypto world hence we decided to come out to their rescue
+                    them to save their precious time.
                   </p>
-                  <a href="javascript:void(0)" className="btn btn-primary mt-3">
+                  <a
+                    href="https://t.me/chillpk"
+                    target="_blank"
+                    className="btn btn-primary mt-3"
+                  >
                     Join now
                   </a>
                 </div>
@@ -268,31 +269,69 @@ class Home extends Component {
                   <div className="media-body">
                     <h4 className="title mb-0">YouTube</h4>
                   </div>
-                  <button className="btn btn-secondary">Watch now</button>
+                  <a
+                    href="https://www.youtube.com/channel/UCt1Q4bJR-vjRBZ46ISBKb1w"
+                    target="_blank"
+                    className="btn btn-secondary"
+                  >
+                    Watch now
+                  </a>
                 </div>
               </div>
 
               <div className="col-lg-8 col-md-8 mb-8 pb-2 offset-md-2 offset-lg-2">
                 <div className="media key-feature align-items-center p-3 rounded shadow">
                   <div className="icon text-center rounded-circle mr-3">
-                    <i className="mdi mdi-telegram"></i>
+                    <i className="mdi mdi-facebook"></i>
+                  </div>
+                  <div className="media-body">
+                    <h4 className="title mb-0">Facebook (Crypto Sangat)</h4>
+                  </div>
+                  <a
+                    href="https://www.facebook.com/Crypto-Sangat-113012840487229/"
+                    target="_blank"
+                    className="btn btn-secondary"
+                  >
+                    Join now
+                  </a>
+                </div>
+              </div>
+
+              <div className="col-lg-8 col-md-8 mb-8 pb-2 offset-md-2 offset-lg-2">
+                <div className="media key-feature align-items-center p-3 rounded shadow">
+                  <div className="icon text-center rounded-circle mr-3">
+                    <i className="mdi mdi-facebook"></i>
+                  </div>
+                  <div className="media-body">
+                    <h4 className="title mb-0">
+                      Facebook (Cryptoism Undercover)
+                    </h4>
+                  </div>
+                  <a
+                    href="https://www.facebook.com/groups/944049246097867/?ref=share"
+                    target="_blank"
+                    className="btn btn-secondary"
+                  >
+                    Join Now
+                  </a>
+                </div>
+              </div>
+
+              <div className="col-lg-8 col-md-8 mb-8 pb-2 offset-md-2 offset-lg-2">
+                <div className="media key-feature align-items-center p-3 rounded shadow">
+                  <div className="icon text-center rounded-circle mr-3">
+                    <i className="mdi mdi-facebook"></i>
                   </div>
                   <div className="media-body">
                     <h4 className="title mb-0">Telegram</h4>
                   </div>
-                  <button className="btn btn-secondary">Join now</button>
-                </div>
-              </div>
-
-              <div className="col-lg-8 col-md-8 mb-8 pb-2 offset-md-2 offset-lg-2">
-                <div className="media key-feature align-items-center p-3 rounded shadow">
-                  <div className="icon text-center rounded-circle mr-3">
-                    <i className="mdi mdi-account"></i>
-                  </div>
-                  <div className="media-body">
-                    <h4 className="title mb-0">Become a Member</h4>
-                  </div>
-                  <button className="btn btn-secondary">Join Now</button>
+                  <a
+                    href="https://t.me/chillpk"
+                    target="_blank"
+                    className="btn btn-secondary"
+                  >
+                    Join Now
+                  </a>
                 </div>
               </div>
             </div>

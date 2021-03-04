@@ -50,9 +50,7 @@ class Header extends Component {
               <li>
                 <a href="/tutorials">Tutorials</a>
               </li>
-              <li>
-                <a href="#">Contant Us</a>
-              </li>
+              <li>{/* <a href="#">Contant Us</a> */}</li>
             </ul>
             <div className="buy-menu-btn d-none">
               <a
