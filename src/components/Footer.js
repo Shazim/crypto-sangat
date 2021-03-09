@@ -52,7 +52,10 @@ class Footer extends Component {
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="https://t.me/chillpk" className="rounded">
+                    <a
+                      href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"
+                      className="rounded"
+                    >
                       <i className="mdi mdi-telegram"></i>
                     </a>
                   </li>

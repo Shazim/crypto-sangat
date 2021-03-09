@@ -170,7 +170,7 @@ class Home extends Component {
                     them to save their precious time.
                   </p>
                   <a
-                    href="https://t.me/chillpk"
+                    href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"
                     target="_blank"
                     className="btn btn-primary mt-3"
                   >
@@ -326,7 +326,7 @@ class Home extends Component {
                     <h4 className="title mb-0">Telegram</h4>
                   </div>
                   <a
-                    href="https://t.me/chillpk"
+                    href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"
                     target="_blank"
                     className="btn btn-secondary"
                   >
