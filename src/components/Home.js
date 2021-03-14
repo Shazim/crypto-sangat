@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Slider1 from "./images/crypto/slider1.jpg";
+import Slider1 from "./images/crypto/slider3.jpg";
 import Slider2 from "./images/crypto/slider2.jpg";
 import Person from "./images/crypto/rubaiz.png";
 import Pen from "./images/icon/pen.svg";
@@ -60,20 +60,26 @@ class Home extends Component {
                     <div className="col-lg-12 text-center">
                       <div className="title-heading mt-4">
                         <h6 className="text-light para-dark animated fadeInDownBig animation-delay-1">
-                          Tag line here
+                          The truth about trustless systems
                         </h6>
                         <h1 className="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">
-                          Heading Here
+                          What Does the Future Hold for Cryptocurrency?
                         </h1>
                         <p className="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">
-                          Description Here
+                          Cryptocurrency has become a global phenomenom in
+                          recent years, although much is still to be learned
+                          about this evolving technology. There are many
+                          concerns and worries swirling around the technology
+                          and its capacity to disrupt traditional financial
+                          systems.
                         </p>
                         <div className="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                           <a
-                            href="javascript:void(0)"
+                            href="https://online.stanford.edu/future-for-cryptocurrency"
+                            target="_blank"
                             className="btn btn-primary mt-2"
                           >
-                            <i className="mdi mdi-email"></i> Get Started
+                            <i className="mdi mdi-email"></i> Read more
                           </a>
                         </div>
                       </div>
@@ -92,29 +98,27 @@ class Home extends Component {
                     <div className="col-lg-12 text-center">
                       <div className="title-heading mt-4">
                         <h6 className="text-light para-dark animated fadeInDownBig animation-delay-1">
-                          Tagline here
+                          The truth about trustless systems
                         </h6>
                         <h1 className="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">
-                          Heading here
+                          5 Opportunities Of Blockchain That You Can Make Use Of
                         </h1>
-                        <p className="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">
-                          Subheading here
+                        <p className="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">
+                          Cryptocurrencies have been getting mix reviews from
+                          different regulators across the globe. However, the
+                          same regulators have been extremely welcoming to the
+                          underlying blockchain technology which houses the
+                          potential of revolutionising the world as we see it
+                          today.
                         </p>
-                        <div className="text-center subcribe-form mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                          {/* <form>
-                        <div className="form-group">
-                          <input
-                            type="email"
-                            id="email"
-                            name="email"
-                            className="rounded"
-                            placeholder="E-mail"
-                          />
-                          <button type="submit" className="btn btn-primary">
-                            Book Space
-                          </button>
-                        </div>
-                      </form> */}
+                        <div className="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
+                          <a
+                            href="https://kryptomoney.com/five-opportunities-of-blockchain-that-you-can-make-use-of/"
+                            target="_blank"
+                            className="btn btn-primary mt-2"
+                          >
+                            <i className="mdi mdi-email"></i> Read more
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -160,14 +164,40 @@ class Home extends Component {
                 <div className="section-title ml-lg-4">
                   <h4 className="title mb-4">About Us</h4>
                   <p className="text-muted">
-                    We are proud to say that we have come to this point in our
-                    crypto journey and willing to share our unlimited knowledge
-                    with newbies. Our sole purpose is to educate people about
-                    crypto and its amazing future. We believe in bloackchain
-                    innovation and technology. We feel not every newbie should
-                    invest all his/her time wondering what is happening in
-                    crypto world hence we decided to come out to their rescue
-                    them to save their precious time.
+                    We started our journey into cryptocurrency in 2016 and have
+                    gone far to this point of having such great audacity to
+                    begin imparting the knowledge we have acquired and about to
+                    learn. Because change is ceaseless, our ardor in keeping up
+                    with the whole digitalization that cryptocurrency brings
+                    into the world remains steadfast.
+                  </p>
+                  <p className="text-muted">
+                    Today, it is very noteworthy to understand the very nature
+                    of cryptocurrency. It provides no guarantees but opens
+                    myriad of opputunities. Quite similar to the separation of
+                    the church and the state, at the height of cryptocurrency,
+                    we are not far from the global separation of our monetary
+                    system from the government. This decentralization will bring
+                    more power to people by means of augmented financial freedom
+                    and an independent system uncontrolled by self-interests.
+                  </p>
+                  <p className="text-muted">
+                    Investing in cryptocurrency should not be perceived as a
+                    get-rich-quick scheme or as simple as that. There's more
+                    than meets the eye with the way it sould be discerned. We
+                    believe that cruicial part is learning the ability to adapt
+                    to it by heart because this equips us with the fundamental
+                    skills that serve as the gateway in living side-by-side with
+                    the dynamic world of digitalization.
+                  </p>
+                  <p className="text-muted">
+                    The world is changing and so our ways. Our mission it to
+                    educate people to keep them at bay during this transition.
+                    If you join our learning expedition into our new world of
+                    monetary system, you obtain the knowledge of how to maximise
+                    the opputunities this new world presents, and at the same
+                    time imbibe the wisdom on how you can minimise your
+                    financial risks.
                   </p>
                   <a
                     href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"

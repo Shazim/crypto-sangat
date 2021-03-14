@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Logo from "./images/crypto_sangat.png";
+import Logo from "./images/light_logo.png";
 
 class Header extends Component {
   render() {
@@ -9,7 +9,7 @@ class Header extends Component {
         <div className="container">
           <div>
             <a className="logo" href="/">
-              <img src={Logo} height="50" alt="" />
+              <img src={Logo} height="80" alt="" />
             </a>
           </div>
           <div className="buy-button">

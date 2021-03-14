@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import LogoLight from "./images/crypto_sangat_light.png";
+import LogoLight from "./images/logo_dark.png";
 
 class Footer extends Component {
   render() {
@@ -9,18 +9,19 @@ class Footer extends Component {
         <footer className="footer pb-0">
           <div className="container">
             <div className="row">
-              <div className="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
+              <div className="col-lg-2 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                 <a href="#" className="logo-footer">
-                  <img src={LogoLight} height="50" alt="" />
+                  <img src={LogoLight} height="150" alt="" />
                 </a>
+              </div>
+
+              <div className="col-lg-4 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                 <p className="mt-4">
                   We are proud to say that we have come to this point in our
                   crypto journey and willing to share our unlimited knowledge
                   with newbies.
                 </p>
               </div>
-
-              <div className="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0"></div>
 
               <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0"></div>
 
