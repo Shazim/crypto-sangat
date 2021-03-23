@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Slider1 from "./images/crypto/slider3.jpg";
 import Slider2 from "./images/crypto/slider2.jpg";
-import Person from "./images/crypto/rubaiz.png";
+import Person from "./images/crypto/rubaiz_new.png";
 import Pen from "./images/icon/pen.svg";
 import Video from "./images/icon/video.svg";
 import Intellectual from "./images/icon/intellectual.svg";
