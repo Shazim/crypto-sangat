@@ -14,7 +14,7 @@ class Header extends Component {
           </div>
           <div className="buy-button">
             <a
-              href="http://t.me/chillpk"
+              href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"
               target="_blank"
               className="btn btn-primary"
             >
@@ -54,7 +54,7 @@ class Header extends Component {
             </ul>
             <div className="buy-menu-btn d-none">
               <a
-                href="http://t.me/chillpk"
+                href="https://t.me/joinchat/SgnrxGbuXjqFnjFG"
                 target="_blank"
                 className="btn btn-primary"
               >
